@@ -14,3 +14,7 @@ Humans add value to data, and d3 visualizations help us by providing insight int
 ### How?  
 
 For an application, create a network diagram with nodes and edges specific to its domain (e.g. biology or network management).  Give the nodes and edges unique identifiers that match those that identify data objects captured and stored in a repository.  Define a precise layout, or fix certain elements and allow automated layout of the diagram around them. 
+
+### What?
+
+We shall build what we set out to build according to the requirements defined in the [wiki](https://github.com/StewartNoyce/d3-nde/wiki).  
